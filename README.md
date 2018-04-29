@@ -10,3 +10,5 @@
 
 启动项目后可访问：http://localhost:9090/swagger-ui.html<br> 
 这是一个项目内置的Swagger地址，可以进行快捷调试Controller提供的REST接口<br> 
+
+备注：本项目为IDEA项目、需要装lombok插件
